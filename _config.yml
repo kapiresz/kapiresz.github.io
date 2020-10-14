@@ -6,7 +6,7 @@ favicon: images/favicon.ico
 name: Markos Hay
 title: Consultant & Student
 email: N0767923@ntu.ac.uk
-website: https:ccproject.info
+website: ccproject.info
 
 # Social links
 #twitter_username: facespics
@@ -24,7 +24,7 @@ linkedin_username: markoshay
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Markos and I'm a final year student at Nottingham Business School, NTU and a founder (and Consultant) for CCProject.info. Outgoing, detail-orientated, an efficient problem solver who is curious and eager to learn with a commitment to pursue a career in Consulting \& Business Development. Driven by results, strives for excellence, pushes boundaries by conquering fears and passionate about making a difference.
+  Hi, my name's Markos and I'm a final year student at Nottingham Business School, NTU and founder (and Consultant) of CCProject.info. Outgoing, detail-orientated, an efficient problem solver who is curious and eager to learn with a commitment to pursue a career in Consulting & Business Development. Driven by results, strives for excellence, pushes boundaries by conquering fears and passionate about making a difference.
 
   I am most skilled in: <mark>Leadership</mark> and <mark>Problem Solving</mark>
 
