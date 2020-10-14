@@ -1,8 +1,7 @@
 - layout: top-middle
-  name: Super awesome project
-  link: github.com/sproogen
-  github: sproogen/resume-theme
-  quote: >
-    This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+  name: Collaborative Consulting Project
+  link: ccproject.info
+  quote: >   <mark> </mark?>
+    A group of students,who are focused on making an impact by helping others and filling in the gap.
   description: | # this will include new lines to allow paragraphs
-    I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+    A <mark>Collaborative</mark> between students, for <mark>Consulting</mark>. A <mark>Project</mark> that gives back to the community. ‍Founded in 2020, the project was conceptualized following the daily discussions of how businesses across the globe have been impacted by SARS-CoV-2 (COVID19), prioritizing SME's and Startups. Everyone can use a little help some times, and that's okay - especially during troubling times like these. <mark>So we ask you, how can we help?</mark>
