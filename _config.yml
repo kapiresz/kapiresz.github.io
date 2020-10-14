@@ -1,32 +1,32 @@
 # Site
-repository: sproogen/resume-theme
+repository: kapiresz/kapiresz.github.io
 favicon: images/favicon.ico
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Markos Hay
+title: Consultant & Student
+email: N0767923@ntu.ac.uk
+website: https:ccproject.info
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+#twitter_username: facespics
+github_username:  kapiresz
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: chillwildlife
-linkedin_username: jameswgrant
+instagram_username: markoshay
+linkedin_username: markoshay
 # pinterest_username: jekyll
-youtube_username: globalmtb
+#youtube_username: globalmtb
 # googleplus_username: +jekyll
 
 # About Section
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hi, my name's Markos and I'm a final year student at Nottingham Business School, NTU and a founder (and Consultant) for CCProject.info. Outgoing, detail-orientated, an efficient problem solver who is curious and eager to learn with a commitment to pursue a career in Consulting \& Business Development. Driven by results, strives for excellence, pushes boundaries by conquering fears and passionate about making a difference.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  I am most skilled in: <mark>Leadership</mark> and <mark>Problem Solving</mark>
 
 # Projects Section
 # projects_title: Projects
@@ -51,6 +51,7 @@ footer_show_references: true
 
 # Build settings
 remote_theme: sproogen/resume-theme
+darkmode: true
 
 sass:
   sass_dir: _sass
