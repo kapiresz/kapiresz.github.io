@@ -3,8 +3,8 @@
   dates: 2017 - 2021
   qualification: BA (Hons) Business Management & Human Resources (+ Industrial Placement Year)
   quote: >
-    We bring brilliant minds together to crasck complex issues. Problems aren't one-dimensional. By <mark>collaborating</mark> we can find the <mark>answers.</mark>
+    We bring brilliant minds together to crasck complex issues. Problems aren't one-dimensional. By *collaborating* we can find the *answers.*
   description: | # this will include new lines to allow paragraphs
     During my time at NBS I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
-    I spent a lot of my free time as a committee member of the *Photography Society* taking on the role of *President*. Moreover, I have lead teams in Business Challenges such as *UBC Worldwide by IBM*, volunteered with the *International Team* and have been presented with different awards such as the *Acceler8 Gold*.
+    # I spent a lot of my free time as a committee member of the <mark>Photography Society</mark> taking on the role of <mark>President</mark>. Moreover, I have lead teams in Business Challenges such as <mark>UBC Worldwide by IBM</mark>, volunteered with the <mark>International Team</mark> and have been presented with different awards such as the <mark>Acceler8 Gold</mark>.
