@@ -1,4 +1,4 @@
-- layout: left
+- layout: top-middle
   company: FBRH Consultants
   link: fbrh.co.uk
   job_title: Consultant & Client Relations
@@ -7,7 +7,7 @@
 
   #description: | # this will include new lines to allow paragraphs #fbrh
 
-- layout: left #Airbus
+- layout: top-middle #Airbus
   company: Airbus Operations
   link: AIRBUS.com
   job_title: Performance Improvement, AOS Intern
@@ -33,10 +33,10 @@
         • Volunteering Opportunities included - Community Tours, STEM Ambassador for North Wales, Tour of Britain, Big Bang @ Welsh Rally.
 
         • Mentor for Ysgol Dyffryn Conwy, leading a group of students for The Engineering Education Scheme Wales (EESW)
-        
+
         • Representative in multiple University Careers Fairs and Manufacturing Expo's
 
-- layout: left #UBC
+- layout: top-middle #UBC
   company: UBC Worldwide
   link: www.ubcworldwide.com
   job_title: Team Leader
@@ -46,7 +46,7 @@
   description: |
               A results-driven approach was used in order to maximise revenue, lower costs and ultimately increase profitability while maintaining a healthy relationship with shareholders and customers respectively. Profitability was an outcome of: Operational Decisions, Market Share, and Customer Satisfaction.
 
-- layout: left #TUI
+- layout: top-middle #TUI
   company: TUI
   link: www.tui.com
   job_title: Rotational & Finance Intern
@@ -65,7 +65,7 @@
 
               • Finance: Asset Safeguarding using Accrual Accounting, Three-way matching of Invoices, Trusted with Accounts Receivables and Payables via Oracle Finance
 
-- layout: left #PhotoSoc
+- layout: top-middle #PhotoSoc
   company: Photography Society, NTSU
   #link:
   job_title: President
