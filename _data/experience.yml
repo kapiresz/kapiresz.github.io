@@ -5,7 +5,11 @@
   dates:  07/2020 - Present
   #quote: >
 
-  #description: | # this will include new lines to allow paragraphs #fbrh
+  description: | # this will include new lines to allow paragraphs
+
+        • Business & Social Media Analytics and Consulting
+
+        • Creating and developing client relationships, providing guidance and advice while ensuring all of the customer’sneeds are being met
 
 - layout: top-middle #Airbus
   company: Airbus Operations
